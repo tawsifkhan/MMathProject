@@ -10,3 +10,5 @@ The FEM files can be used to numerically solve any equation you want. You will h
 Using the State Estimation Files:
 
 myKalman.m is the most important file for the state estimation. The optimal sensor location need to be calculated beforehand.
+
+All the files should contain a description. In order to use the entire software please download all the files and add the main folder to the path using pathtool. 
