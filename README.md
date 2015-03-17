@@ -5,7 +5,7 @@ The software can be used to compute the optimal sensor location for a Kalman Fil
 
 Using the FEM Files:
 
-The FEM files can be used to numerically solve wave equations. You will have to change the final discrete equation. The mass and stiffness matrices are constructed independently. The reconstruction and projection of functions are also indepent. The only changes need to be made in order to solve a different equation is in the femShallow___.m files. 
+The FEM files can be used to numerically solve wave equations. The final discrete equation might need some changes. The mass and stiffness matrices are constructed independently. The reconstruction and projection of functions are also independent. The only changes need to be made in order to solve a different equation is in the femShallow___.m files. 
 
 Using the State Estimation Files:
 
