@@ -1,5 +1,5 @@
 # MMathProject
-This repository contains the MATLAB functions for a software I developed for my MMath Thesis at University of Waterloo.
+This repository contains the MATLAB functions for a software I developed for my MMath Thesis at University of Waterloo. A copy of the thesis is available [here](https://uwspace.uwaterloo.ca/handle/10012/9507)
 
 The software can be used to compute the optimal sensor location for a Kalman Filter used to estimate a wave dispersive equation. 
 
